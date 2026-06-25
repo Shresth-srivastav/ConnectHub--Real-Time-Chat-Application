@@ -57,27 +57,21 @@ ConnectHub is a real-time messaging platform built using the MERN Stack. It enab
 ## Demo 
 
 ### Home
-![image](https://github.com/user-attachments/assets/d029d6fd-1e0d-4e37-8870-748372dbe4df)
+![image]()
 
 ### Profile
-![image](https://github.com/user-attachments/assets/d67a2187-a051-485e-918e-04c81f400c7d)
+![image]()
 
 ### Settings
-![image](https://github.com/user-attachments/assets/3140652f-b957-4c3c-9a1e-e418910bf327)
+![image]()
 
 ### Signup Page
-![image](https://github.com/user-attachments/assets/0a11deb9-c748-414d-87ea-b216ab85fa4a)
+![image]()
 
 
 
 # Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-
-## **Deployment**  
-Deployed link:    *https://fullstack-chat-app-xoai.onrender.com/*
-The app is deployed on [Render](https://render.com) for a seamless full-stack experience.  
-
+Contributions are welcome! Please fork the repository and submit a pull request. 
 
 ### **Prerequisites**  
 - Node.js and npm installed  
